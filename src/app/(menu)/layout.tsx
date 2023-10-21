@@ -2,6 +2,7 @@ import "@/globals.css";
 import type { Metadata } from "next";
 import { auth } from "@/app/api/auth/[...nextauth]/auth";
 import { redirect } from "next/navigation";
+import NextAuthSessionProvider from "@/providers/NextAuthSessionProvider";
 
 export const metadata: Metadata = {
   title: "Create Next App",
@@ -15,18 +16,18 @@ export default async function PrivateLayout({
 }) {
   // Antes de renderizar páginas nesse grupo de rotas, irei verificar
   // se o usuário está logado. Se não estiver, irei redirecionar para a página de login
-  const session = await auth()
+  const session = await auth();
 
   if (!session) {
     console.log("não está logado");
-    
+
     redirect("/login");
   }
 
   return (
     <html lang="en">
-      <body >
-        {children}
+      <body>
+        <NextAuthSessionProvider session={session}>{children}</NextAuthSessionProvider>
       </body>
     </html>
   );
