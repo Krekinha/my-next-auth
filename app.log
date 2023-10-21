@@ -1,0 +1,114 @@
+19-10-2023 00:40:36 [production] [error: "LOGIN INICIO"] url: http://localhost:3000/auth/login
+19-10-2023 00:40:36 [production] [error: {"error":null,"status":200,"ok":true,"url":"https://aya-ia.vercel.app/api/auth/signin?csrf=true"}] url: http://localhost:3000/auth/login
+19-10-2023 00:43:42 [production] [error: "LOGIN INICIO"] url: http://localhost:3000/auth/login
+19-10-2023 00:43:42 [production] [error: {"error":null,"status":200,"ok":true,"url":"https://aya-ia.vercel.app/api/auth/signin?csrf=true"}] url: http://localhost:3000/auth/login
+19-10-2023 00:47:04 [production] [error: {"error":null,"status":200,"ok":true,"url":"https://aya-ia.vercel.app/api/auth/signin?csrf=true"}] url: http://localhost:3000/auth/login
+19-10-2023 00:47:43 [production] [error: {"error":null,"status":200,"ok":true,"url":"https://aya-ia.vercel.app/api/auth/signin?csrf=true"}] url: http://localhost:3000/auth/login
+19-10-2023 00:47:44 [production] [error: {"error":null,"status":200,"ok":true,"url":"https://aya-ia.vercel.app/api/auth/signin?csrf=true"}] url: http://localhost:3000/auth/login
+19-10-2023 00:47:44 [production] [error: {"error":null,"status":200,"ok":true,"url":"https://aya-ia.vercel.app/api/auth/signin?csrf=true"}] url: http://localhost:3000/auth/login
+19-10-2023 00:47:45 [production] [error: {"error":null,"status":200,"ok":true,"url":"https://aya-ia.vercel.app/api/auth/signin?csrf=true"}] url: http://localhost:3000/auth/login
+19-10-2023 00:47:46 [production] [error: {"error":null,"status":200,"ok":true,"url":"https://aya-ia.vercel.app/api/auth/signin?csrf=true"}] url: http://localhost:3000/auth/login
+19-10-2023 00:47:46 [production] [error: {"error":null,"status":200,"ok":true,"url":"https://aya-ia.vercel.app/api/auth/signin?csrf=true"}] url: http://localhost:3000/auth/login
+19-10-2023 00:47:47 [production] [error: {"error":null,"status":200,"ok":true,"url":"https://aya-ia.vercel.app/api/auth/signin?csrf=true"}] url: http://localhost:3000/auth/login
+19-10-2023 00:47:47 [production] [error: {"error":null,"status":200,"ok":true,"url":"https://aya-ia.vercel.app/api/auth/signin?csrf=true"}] url: http://localhost:3000/auth/login
+19-10-2023 00:47:48 [production] [error: {"error":null,"status":200,"ok":true,"url":"https://aya-ia.vercel.app/api/auth/signin?csrf=true"}] url: http://localhost:3000/auth/login
+19-10-2023 00:47:49 [production] [error: {"error":null,"status":200,"ok":true,"url":"https://aya-ia.vercel.app/api/auth/signin?csrf=true"}] url: http://localhost:3000/auth/login
+19-10-2023 00:47:49 [production] [error: {"error":null,"status":200,"ok":true,"url":"https://aya-ia.vercel.app/api/auth/signin?csrf=true"}] url: http://localhost:3000/auth/login
+19-10-2023 00:47:50 [production] [error: {"error":null,"status":200,"ok":true,"url":"https://aya-ia.vercel.app/api/auth/signin?csrf=true"}] url: http://localhost:3000/auth/login
+19-10-2023 00:47:50 [production] [error: {"error":null,"status":200,"ok":true,"url":"https://aya-ia.vercel.app/api/auth/signin?csrf=true"}] url: http://localhost:3000/auth/login
+19-10-2023 00:54:11 [production] [error: {"error":null,"status":200,"ok":true,"url":"https://aya-ia.vercel.app/api/auth/signin?csrf=true"}] url: http://localhost:3000/auth/login
+19-10-2023 00:54:12 [production] [error: {"error":null,"status":200,"ok":true,"url":"https://aya-ia.vercel.app/api/auth/signin?csrf=true"}] url: http://localhost:3000/auth/login
+19-10-2023 00:55:48 [production] [error: {"error":null,"status":200,"ok":true,"url":"https://aya-ia.vercel.app/api/auth/signin?csrf=true"}] url: http://localhost:3000/auth/login
+19-10-2023 00:55:54 [production] [error: {"error":null,"status":200,"ok":true,"url":"https://aya-ia.vercel.app/api/auth/signin?csrf=true"}] url: http://localhost:3000/auth/login
+19-10-2023 00:55:57 [production] [error: {"error":null,"status":200,"ok":true,"url":"https://aya-ia.vercel.app/api/auth/signin?csrf=true"}] url: http://localhost:3000/auth/login
+19-10-2023 00:56:06 [production] [error: {"error":null,"status":200,"ok":true,"url":"https://aya-ia.vercel.app/api/auth/signin?csrf=true"}] url: http://localhost:3000/auth/login
+19-10-2023 01:02:22 [production] [error: {"error":null,"status":200,"ok":true,"url":"https://aya-ia.vercel.app/api/auth/signin?csrf=true"}] url: http://localhost:3000/auth/login
+19-10-2023 01:06:49 [production] [error: {"error":null,"status":200,"ok":true,"url":"https://aya-ia.vercel.app/api/auth/signin?csrf=true"}] url: http://localhost:3000/auth/login
+19-10-2023 01:48:21 [development] [error: {"error":null,"status":200,"ok":true,"url":"http://127.0.0.1:3000"}] url: http://localhost:3000/auth/login
+19-10-2023 01:49:34 [development] [error: Failed to parse URL from /api/users/login] url: http://localhost:3000/auth/login
+19-10-2023 01:49:34 [development] [error: {"error":"Failed to parse URL from /api/users/login","status":401,"ok":false,"url":null}] url: http://localhost:3000/auth/login
+19-10-2023 01:56:12 [development] [error: Failed to parse URL from /api/users/login] url: http://localhost:3000/auth/login
+19-10-2023 01:56:12 [development] [error: {"error":"Failed to parse URL from /api/users/login","status":401,"ok":false,"url":null}] url: http://localhost:3000/auth/login
+19-10-2023 01:56:38 [development] [error: {"error":null,"status":200,"ok":true,"url":"http://127.0.0.1:3000"}] url: http://localhost:3000/auth/login
+19-10-2023 01:57:02 [development] [error: {"error":null,"status":200,"ok":true,"url":"http://127.0.0.1:3000"}] url: http://localhost:3000/auth/login
+19-10-2023 02:26:49 [development] [error: {"error":null,"status":200,"ok":true,"url":"http://127.0.0.1:3000"}] url: http://localhost:3000/auth/login
+19-10-2023 02:27:31 [development] [error: {"error":null,"status":200,"ok":true,"url":"http://127.0.0.1:3000"}] url: http://localhost:3000/auth/login
+19-10-2023 02:50:28 [development] [error: {"error":null,"status":200,"ok":true,"url":"http://127.0.0.1:3000"}] url: http://localhost:3000/auth/login
+19-10-2023 02:50:42 [development] [error: {"error":"Usuário não cadastrado","status":401,"ok":false,"url":null}] url: http://localhost:3000/auth/login
+19-10-2023 02:50:42 [development] [error: Usuário não cadastrado] url: http://localhost:3000/auth/login
+19-10-2023 02:50:51 [development] [error: {"error":"Usuário ou senha inválida","status":401,"ok":false,"url":null}] url: http://localhost:3000/auth/login
+19-10-2023 02:50:51 [development] [error: Usuário ou senha inválida] url: http://localhost:3000/auth/login
+19-10-2023 02:51:00 [development] [error: {"error":null,"status":200,"ok":true,"url":"http://127.0.0.1:3000"}] url: http://localhost:3000/auth/login
+19-10-2023 02:59:45 [development] [error: {"error":null,"status":200,"ok":true,"url":"http://127.0.0.1:3000"}] url: http://localhost:3000/auth/login
+19-10-2023 03:13:41 [development] [error: {"error":null,"status":200,"ok":true,"url":"http://127.0.0.1:3000"}] url: http://localhost:3000/auth/login
+19-10-2023 03:15:02 [development] [error: {"error":null,"status":200,"ok":true,"url":"http://127.0.0.1:3000"}] url: http://localhost:3000/auth/login
+19-10-2023 03:16:16 [development] [error: {"error":null,"status":200,"ok":true,"url":"http://127.0.0.1:3000"}] url: http://localhost:3000/auth/login
+19-10-2023 03:16:31 [development] [error: {"error":null,"status":200,"ok":true,"url":"http://127.0.0.1:3000"}] url: http://localhost:3000/auth/login
+19-10-2023 03:17:14 [development] [error: {"error":null,"status":200,"ok":true,"url":"http://127.0.0.1:3000"}] url: http://localhost:3000/auth/login
+19-10-2023 03:17:39 [development] [error: {"error":"Usuário ou senha inválida","status":401,"ok":false,"url":null}] url: http://127.0.0.1:3000/auth/login
+19-10-2023 03:17:39 [development] [error: Usuário ou senha inválida] url: http://127.0.0.1:3000/auth/login
+19-10-2023 03:17:45 [development] [error: {"error":null,"status":200,"ok":true,"url":"http://127.0.0.1:3000/auth/login"}] url: http://127.0.0.1:3000/auth/login
+19-10-2023 03:19:32 [development] [error: {"error":null,"status":200,"ok":true,"url":"http://127.0.0.1:3000"}] url: http://localhost:3000/auth/login
+19-10-2023 03:19:45 [development] [error: {"error":null,"status":200,"ok":true,"url":"http://127.0.0.1:3000"}] url: http://localhost:3000/auth/login
+19-10-2023 03:20:47 [development] [error: {"error":"Usuário ou senha inválida","status":401,"ok":false,"url":null}] url: http://127.0.0.1:3000/auth/login
+19-10-2023 03:20:47 [development] [error: Usuário ou senha inválida] url: http://127.0.0.1:3000/auth/login
+19-10-2023 03:20:55 [development] [error: {"error":null,"status":200,"ok":true,"url":"http://127.0.0.1:3000/auth/login"}] url: http://127.0.0.1:3000/auth/login
+19-10-2023 03:22:13 [development] [error: {"error":null,"status":200,"ok":true,"url":"http://localhost:3000/auth/login"}] url: http://localhost:3000/auth/login
+19-10-2023 03:24:07 [development] [error: {"error":null,"status":200,"ok":true,"url":"http://localhost:3000/auth/login"}] url: http://localhost:3000/auth/login
+19-10-2023 03:24:25 [development] [error: {"error":null,"status":200,"ok":true,"url":"http://localhost:3000/auth/login"}] url: http://localhost:3000/auth/login
+19-10-2023 03:24:47 [development] [error: {"error":null,"status":200,"ok":true,"url":"http://localhost:3000/auth/login"}] url: http://localhost:3000/auth/login
+19-10-2023 03:25:19 [development] [error: {"error":null,"status":200,"ok":true,"url":"http://localhost:3000/auth/login"}] url: http://localhost:3000/auth/login
+19-10-2023 03:25:33 [development] [error: {"error":null,"status":200,"ok":true,"url":"http://localhost:3000/auth/login"}] url: http://localhost:3000/auth/login
+19-10-2023 03:25:48 [development] [error: {"error":null,"status":200,"ok":true,"url":"http://localhost:3000/auth/login"}] url: http://localhost:3000/auth/login
+19-10-2023 03:46:30 [development] [error: Failed to parse URL from function baseUrl() {
+    if (false) {}
+    else return "http://localhost:3000";
+}/api/users/login] url: http://localhost:3000/auth/login
+19-10-2023 03:46:30 [development] [error: {"error":"Failed to parse URL from function baseUrl() {\n    if (false) {}\n    else return \"http://localhost:3000\";\n}/api/users/login","status":401,"ok":false,"url":null}] url: http://localhost:3000/auth/login
+19-10-2023 03:47:15 [development] [error: {"error":null,"status":200,"ok":true,"url":"http://localhost:3000/auth/login"}] url: http://localhost:3000/auth/login
+19-10-2023 03:47:36 [development] [error: {"error":null,"status":200,"ok":true,"url":"http://localhost:3000/auth/login"}] url: http://localhost:3000/auth/login
+19-10-2023 04:07:51 [development] [error: {"error":null,"status":200,"ok":true,"url":"http://localhost:3000/auth/login"}] url: http://localhost:3000/auth/login
+19-10-2023 04:07:59 [development] [error: {"error":null,"status":200,"ok":true,"url":"http://localhost:3000/auth/login"}] url: http://localhost:3000/auth/login
+19-10-2023 04:08:15 [development] [error: {"error":null,"status":200,"ok":true,"url":"http://localhost:3000/auth/login"}] url: http://localhost:3000/auth/login
+19-10-2023 04:08:37 [development] [error: {"error":null,"status":200,"ok":true,"url":"http://localhost:3000/auth/login"}] url: http://localhost:3000/auth/login
+19-10-2023 04:08:46 [development] [error: {"error":"UsuÃ¡rio nÃ£o cadastrado","status":401,"ok":false,"url":null}] url: http://localhost:3000/auth/login
+19-10-2023 04:08:46 [development] [error: UsuÃ¡rio nÃ£o cadastrado] url: http://localhost:3000/auth/login
+19-10-2023 04:08:57 [development] [error: {"error":"UsuÃ¡rio ou senha invÃ¡lida","status":401,"ok":false,"url":null}] url: http://localhost:3000/auth/login
+19-10-2023 04:08:57 [development] [error: UsuÃ¡rio ou senha invÃ¡lida] url: http://localhost:3000/auth/login
+19-10-2023 04:09:02 [development] [error: {"error":null,"status":200,"ok":true,"url":"http://localhost:3000/auth/login"}] url: http://localhost:3000/auth/login
+19-10-2023 04:22:50 [development] [error: {"error":null,"status":200,"ok":true,"url":"http://localhost:3000/auth/login"}] url: http://localhost:3000/auth/login
+19-10-2023 04:23:32 [development] [error: {"error":null,"status":200,"ok":true,"url":"http://localhost:3000"}] url: http://127.0.0.1:3000/auth/login
+19-10-2023 04:23:40 [development] [error: {"error":null,"status":200,"ok":true,"url":"http://localhost:3000"}] url: http://127.0.0.1:3000/auth/login
+19-10-2023 04:27:45 [development] [error: {"error":null,"status":200,"ok":true,"url":"http://localhost:3000/auth/login"}] url: http://localhost:3000/auth/login
+19-10-2023 04:27:50 [development] [error: {"error":null,"status":200,"ok":true,"url":"http://localhost:3000/auth/login"}] url: http://localhost:3000/auth/login
+19-10-2023 04:28:43 [development] [error: {"error":null,"status":200,"ok":true,"url":"http://localhost:3000/auth/login"}] url: http://localhost:3000/auth/login
+19-10-2023 04:28:56 [development] [error: {"error":null,"status":200,"ok":true,"url":"http://localhost:3000/auth/login"}] url: http://localhost:3000/auth/login
+19-10-2023 04:46:03 [development] [error: {"error":null,"status":200,"ok":true,"url":"https://aya-ia.vercel.app/api/auth/signin?csrf=true"}] url: http://localhost:3000/auth/login
+19-10-2023 04:46:08 [development] [error: {"error":null,"status":200,"ok":true,"url":"https://aya-ia.vercel.app/api/auth/signin?csrf=true"}] url: http://localhost:3000/auth/login
+19-10-2023 04:48:13 [development] [error: {"error":null,"status":200,"ok":true,"url":"https://aya-ia.vercel.app/api/auth/signin?csrf=true"}] url: http://localhost:3000/auth/login
+19-10-2023 04:48:19 [development] [error: {"error":null,"status":200,"ok":true,"url":"https://aya-ia.vercel.app/api/auth/signin?csrf=true"}] url: http://localhost:3000/auth/login
+19-10-2023 04:49:55 [development] [error: {"error":null,"status":200,"ok":true,"url":"http://localhost:3000/auth/login"}] url: http://localhost:3000/auth/login
+19-10-2023 04:50:10 [development] [error: {"error":null,"status":200,"ok":true,"url":"http://localhost:3000/auth/login"}] url: http://localhost:3000/auth/login
+19-10-2023 04:50:42 [development] [error: {"error":"Failed to parse URL from /api/users/login","status":401,"ok":false,"url":null}] url: http://localhost:3000/auth/login
+19-10-2023 04:50:42 [development] [error: Failed to parse URL from /api/users/login] url: http://localhost:3000/auth/login
+19-10-2023 04:52:05 [development] [error: {"error":null,"status":200,"ok":true,"url":"http://localhost:3000/auth/login"}] url: http://localhost:3000/auth/login
+19-10-2023 22:34:57 [development] [error: {"error":null,"status":200,"ok":true,"url":"https://aya-ia.vercel.app/api/auth/signin?csrf=true"}] url: http://localhost:3000/auth/login
+19-10-2023 22:38:53 [development] [error: {"error":null,"status":200,"ok":true,"url":"https://aya-ia.vercel.app/api/auth/signin?csrf=true"}] url: http://localhost:3000/auth/login
+19-10-2023 22:40:01 [development] [error: {"error":"Failed to parse URL from /api/users/login","status":401,"ok":false,"url":null}] url: http://localhost:3000/auth/login
+19-10-2023 22:40:01 [development] [error: Failed to parse URL from /api/users/login] url: http://localhost:3000/auth/login
+19-10-2023 22:40:16 [development] [error: {"error":"Failed to parse URL from /api/users/login","status":401,"ok":false,"url":null}] url: http://localhost:3000/auth/login
+19-10-2023 22:40:16 [development] [error: Failed to parse URL from /api/users/login] url: http://localhost:3000/auth/login
+19-10-2023 22:40:20 [development] [error: {"error":"Failed to parse URL from /api/users/login","status":401,"ok":false,"url":null}] url: http://localhost:3000/auth/login
+19-10-2023 22:40:20 [development] [error: Failed to parse URL from /api/users/login] url: http://localhost:3000/auth/login
+19-10-2023 22:41:01 [development] [error: {"error":"Failed to parse URL from /api/users/login","status":401,"ok":false,"url":null}] url: http://localhost:3000/auth/login
+19-10-2023 22:41:01 [development] [error: Failed to parse URL from /api/users/login] url: http://localhost:3000/auth/login
+19-10-2023 22:42:25 [development] [error: Failed to parse URL from undefined/api/users/login] url: http://localhost:3000/auth/login
+19-10-2023 22:42:25 [development] [error: {"error":"Failed to parse URL from undefined/api/users/login","status":401,"ok":false,"url":null}] url: http://localhost:3000/auth/login
+19-10-2023 22:43:14 [development] [error: {"error":null,"status":200,"ok":true,"url":"http://localhost:3000/auth/login"}] url: http://localhost:3000/auth/login
+19-10-2023 22:45:48 [development] [error: Failed to parse URL from undefined/api/users/login] url: http://localhost:3000/auth/login
+19-10-2023 22:45:48 [development] [error: {"error":"Failed to parse URL from undefined/api/users/login","status":401,"ok":false,"url":null}] url: http://localhost:3000/auth/login
+19-10-2023 22:58:38 [development] [error: {"error":null,"status":200,"ok":true,"url":"http://localhost:3000/auth/login"}] url: http://localhost:3000/auth/login
+19-10-2023 22:58:44 [development] [error: {"error":null,"status":200,"ok":true,"url":"http://localhost:3000/auth/login"}] url: http://localhost:3000/auth/login
+19-10-2023 23:18:23 [development] [error: {"error":null,"status":200,"ok":true,"url":"http://localhost:3000/auth/login"}] url: http://localhost:3000/auth/login
+19-10-2023 23:58:57 [development] [error: {"error":null,"status":200,"ok":true,"url":"http://localhost:3000/auth/login"}] url: http://localhost:3000/auth/login
+20-10-2023 00:01:23 [development] [error: {"error":null,"status":200,"ok":true,"url":"http://localhost:3000/auth/login"}] url: http://localhost:3000/auth/login
